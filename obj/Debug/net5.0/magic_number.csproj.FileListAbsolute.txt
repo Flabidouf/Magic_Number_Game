@@ -1,0 +1,16 @@
+/Users/mariuswaseige/Downloads/C#/Projets/magic_number/obj/Debug/net5.0/magic_number.csproj.AssemblyReference.cache
+/Users/mariuswaseige/Downloads/C#/Projets/magic_number/obj/Debug/net5.0/magic_number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariuswaseige/Downloads/C#/Projets/magic_number/obj/Debug/net5.0/magic_number.AssemblyInfoInputs.cache
+/Users/mariuswaseige/Downloads/C#/Projets/magic_number/obj/Debug/net5.0/magic_number.AssemblyInfo.cs
+/Users/mariuswaseige/Downloads/C#/Projets/magic_number/obj/Debug/net5.0/magic_number.csproj.CoreCompileInputs.cache
+/Users/mariuswaseige/Downloads/C#/Projets/magic_number/bin/Debug/net5.0/magic_number
+/Users/mariuswaseige/Downloads/C#/Projets/magic_number/bin/Debug/net5.0/magic_number.deps.json
+/Users/mariuswaseige/Downloads/C#/Projets/magic_number/bin/Debug/net5.0/magic_number.runtimeconfig.json
+/Users/mariuswaseige/Downloads/C#/Projets/magic_number/bin/Debug/net5.0/magic_number.runtimeconfig.dev.json
+/Users/mariuswaseige/Downloads/C#/Projets/magic_number/bin/Debug/net5.0/magic_number.dll
+/Users/mariuswaseige/Downloads/C#/Projets/magic_number/bin/Debug/net5.0/magic_number.pdb
+/Users/mariuswaseige/Downloads/C#/Projets/magic_number/obj/Debug/net5.0/magic_number.dll
+/Users/mariuswaseige/Downloads/C#/Projets/magic_number/obj/Debug/net5.0/refint/magic_number.dll
+/Users/mariuswaseige/Downloads/C#/Projets/magic_number/obj/Debug/net5.0/magic_number.pdb
+/Users/mariuswaseige/Downloads/C#/Projets/magic_number/obj/Debug/net5.0/magic_number.genruntimeconfig.cache
+/Users/mariuswaseige/Downloads/C#/Projets/magic_number/obj/Debug/net5.0/ref/magic_number.dll
